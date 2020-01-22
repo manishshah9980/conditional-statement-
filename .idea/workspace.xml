@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a66b3e82-fada-40b7-8a46-93717d267dcd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wi3dCvjxiVKNl4NaFUFkyaVUgH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.StudentResult">
+    <configuration name="Findnumberstosymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Findnumberstosymbols" />
+      <module name="conditional statement home work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterchangeTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterchangeTwoNumbers" />
+      <module name="conditional statement home work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentResult" />
+      <module name="conditional statement home work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UperLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UperLowerCase" />
+      <module name="conditional statement home work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VowelOrConsonant" />
+      <module name="conditional statement home work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentResult" />
+        <item itemvalue="Application.InterchangeTwoNumbers" />
+        <item itemvalue="Application.VowelOrConsonant" />
+        <item itemvalue="Application.Findnumberstosymbols" />
+        <item itemvalue="Application.UperLowerCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a66b3e82-fada-40b7-8a46-93717d267dcd" name="Default Changelist" comment="" />
+      <created>1579618672983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579618672983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1579618687682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1579618687682" />
+    <state x="438" y="225" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579688800165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="225" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579688800165" />
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1579698228546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579698228546" />
+    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1579698228546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579698228546" />
+    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1579698228546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579698228546" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1579698228546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579698228546" />
+  </component>
+</project>
